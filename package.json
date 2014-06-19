@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "mime": "~1.2.11"
+  }
+}
