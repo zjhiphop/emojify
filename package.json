@@ -1,5 +1,9 @@
 {
-  "devDependencies": {
-    "mime": "~1.2.11"
-  }
+    "devDependencies": {
+        "mime": "~1.2.11",
+        "browserify": "~4.1.11"
+    },
+    "scripts": {
+        "test": "browserify ./script/test.js -o bundle.js; node server"
+    }
 }
