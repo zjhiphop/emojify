@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-        "mime": "~1.2.11",
+        "mime": "~2.4.4",
         "browserify": "~4.1.11"
     },
     "scripts": {
